@@ -1,0 +1,15 @@
+.Link {
+    font: 14px Lato, sans-serif;
+    color: #011e29;
+    text-decoration: none;
+    font-size: medium;
+    font-weight: bolder;
+  }
+  .Link:hover {
+    /* width: 100%; */
+    width: fit-content;
+  }
+  .Link:hover {
+    color: aqua;
+    text-decoration: bold underline;
+  }
